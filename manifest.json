@@ -1,0 +1,9 @@
+{
+  "name": "GitCalendar",
+  "version": "0.1",
+  "description": "Marks Github commits on a yearly calendar.",
+  "chrome_url_overrides": {
+    "newtab": "calendar.html"
+  },
+  "permissions": ["https://api.github.com/"]
+}
